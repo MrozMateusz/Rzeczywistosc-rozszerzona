@@ -1,0 +1,24 @@
+Projekt wykonuje: Mateusz Mróz email(m.mroz9704@gmail.com) gr. 1ID21A
+
+Temat projektu: 31. Rozszerzona rzeczywistość
+Celem projektu byłoby opracowanie aplikacji wykorzystującej system Android oraz rozszerzoną rzeczywistość, 
+np. aplikacja przedstawiająca ratusz kielecki lub zamek w Chęcinach w dawnej postaci.
+
+Spis technologii:
+
+-Unity - na tym silniku wykonam całą strukturą programu
+-C# - jest to język obiektowy stosowany w Unity
+-Blender - program do tworzenia obiektów/ modeli 3D
+
+Lista funkcjonalności:
+
+- Wyświetlanie modelu na ekranie telefonu
+
+
+Cały projekt wykona Mateusz Mróz
+
+Praca inżynierska: Projekt i implementacja aplikacji reprezentującej różne informacje astronomiczne.
+
+
+
+

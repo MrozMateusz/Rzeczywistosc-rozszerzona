@@ -1,0 +1,9 @@
+/*
+/*/
+
+!.gitignore
+!/Assets/
+!/Etap_1/
+!/Etap_2/
+!/Etap_3/
+!/ProjectSettings/

@@ -1,0 +1,9 @@
+Co zostało zrealizowane w aktualnym etapie:
+W tym etapie zrealizowano utworzenie nowego projektu z powodów technicznych oraz stworzono przyciski i skrypt pozwalające na obracanie modelami. 
+Stworzono także dom w programie blender oraz ustawiono wykrywane zdjęcie na karte dame wino. Z powodu zmiany sposobu robienia projektu poprzedni skrypt został usunięty.
+
+Co będzie realizowane w kolejnym etapie:
+Utworzenie większej ilości modeli.
+
+Statyki kodu źródłowego:
+Stworzono 1 plik, sumaryczna ilość linijek kodu wynosi 1469.

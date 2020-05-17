@@ -1,0 +1,8 @@
+Co zostało zrealizowane w aktualnym etapie:
+W tym etapie zrealizowano przygotowanie wstępnego modelu domu.
+
+Co będzie realizowane w kolejnym etapie:
+Utworzenie ratuszu.
+
+Statyki kodu źródłowego:
+Utworzono model łatwego domu, kod źródłowy pliku SampleScene.unity 70273

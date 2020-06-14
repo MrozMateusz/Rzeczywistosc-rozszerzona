@@ -1,0 +1,8 @@
+Co zostało zrealizowane w aktualnym etapie:
+W tym etapie zrealizowano przygotowanie modelu domów.
+
+Co będzie realizowane w kolejnym etapie:
+Dokumentacja techniczna
+
+Statyki kodu źródłowego:
+Utworzono model domów, kod źródłowy pliku SampleScene.unity 166 463 oraz do skryptu Rotate dodano opcję resetu obrotu modelu.

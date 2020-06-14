@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Co zostało zrealizowane w aktualnym etapie:
 W tym etapie zrealizowano przygotowanie wstępnego modelu ratuszu.
 
@@ -6,3 +7,13 @@ Utworzenie bardziej dopracowanego ratuszu i budynków wokół niego, oraz ostatn
 
 Statyki kodu źródłowego:
 Utworzono model łatwego ratuszu, kod źródłowy pliku SampleScene.unity 81753
+=======
+Co zostało zrealizowane w aktualnym etapie:
+W tym etapie zrealizowano przygotowanie wstępnego modelu ratuszu.
+
+Co będzie realizowane w kolejnym etapie:
+Utworzenie bardziej dopracowanego ratuszu i budynków wokół niego, oraz ostatnie poprawki modeli.
+
+Statyki kodu źródłowego:
+Utworzono model łatwego ratuszu, kod źródłowy pliku SampleScene.unity 81753
+>>>>>>> 278f885f74cf210fcc61a2fd6529de2c218d5a32

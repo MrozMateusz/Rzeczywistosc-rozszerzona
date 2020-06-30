@@ -1,0 +1,8 @@
+Co zostało zrealizowane w aktualnym etapie:
+W tym etapie dokończono projekt, skrypt Rotate został wyczyszczony z niepotrzebnych biliotek, oraz dodano textury do modeli.
+
+Co będzie realizowane w kolejnym etapie:
+Koniec
+
+Statyki kodu źródłowego:
+kod źródłowy pliku SampleScene.unity 351 444, skrypt Rotate 755.

@@ -1,12 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
     public GameObject gameObject;
+
 
     public void Obr_Lewo()
     {
@@ -32,7 +30,7 @@ public class Rotate : MonoBehaviour
 
     public void restart()
     {
-        gameObject.transform.Rotate(new Vector3(0, 0, 0));
+        gameObject.transform.rotation = Quaternion.Euler(new Vector3(-30,0,0));
     }
 
 }
